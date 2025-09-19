@@ -1,5 +1,5 @@
 # 📊 Company-Purchasing - Dataset Simulado
-Análise de um dataset simulado de compras realizadas em 2024. O estudo foi desenvolvido no Power BI, com a criação de um relatório interativo para visualização dos resultados. A seguir, são apresentadas algumas imagens do dashboard construído.
+Análise de um dataset simulado de compras realizadas em 2024. O estudo foi desenvolvido no Power BI, com a criação de um relatório interativo para visualização dos resultados. A seguir, são apresentadas algumas imagens do relatório construído.
 
 <div align="center">
   Home
@@ -11,7 +11,7 @@ Análise de um dataset simulado de compras realizadas em 2024. O estudo foi dese
 <br>
 
 <div align="center">
- Dashboard 1
+ Página 1
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ Análise de um dataset simulado de compras realizadas em 2024. O estudo foi dese
 <br>
 
 <div align="center">
- Dashboard 2
+ Página 2
 </div>
 
 <div align="center">
